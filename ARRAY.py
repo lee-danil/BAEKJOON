@@ -1,4 +1,4 @@
-# #10818 최솟값 최댓값
+# #10818번 최솟값,최댓값
 # user=int(input())
 # n=list(map(int,input().split()))
 
@@ -13,7 +13,7 @@
 # print(max(list))
 # print(list.index(max(list))+1)
 
-#3052 나머지
+#3052번 나머지
 # list=[]
 # list_mod=[]
 # for i in range(10): #입력
@@ -25,7 +25,7 @@
 # print(len(list_mod))
 
 
-#1546 평균
+#1546번 평균
 # score =[]
 # new_score=[]
 # sum=0
@@ -37,7 +37,7 @@
 #     sum=float(sum)+new_score[i]
 # print(sum/num)
 
-#8958 Ox퀴즈
+#8958번 Ox퀴즈
 # list=[]
 
 # user= int(input()) #입력
@@ -55,7 +55,7 @@
 #              count=1
 #     print(sum)
 
-#4344 평균은 넘겠지
+#4344번 평균은 넘겠지
 
 # num = int(input()) #개수
 
